@@ -6,4 +6,6 @@ let i = 0
 while (i < 5) {
      i = i + 1
      console.log(i)
+     console.log(estados [i]);
+     i = i+1;
 }
