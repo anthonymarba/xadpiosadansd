@@ -3,7 +3,7 @@ let estados =['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Distr
 let i = 0
 
 
-while (i < 5) {
+while (i < 27) {
      console.log(i)
      console.log(estados [i]);
      i = i+1;
