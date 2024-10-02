@@ -10,6 +10,7 @@ while (i < estados.length) {
 }
 
 for (let index = 0; index < estados.length; index++) {
-     const element = estados[index];
+     console.log(index);
+     console.log(estados[index]);
      
 }
